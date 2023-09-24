@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dde4d57c.css",
+    "main.js": "/static/js/main.5930a746.js",
+    "static/media/proyek4.png": "/static/media/proyek4.3883ed03971efbe0735c.png",
+    "static/media/proyek1.png": "/static/media/proyek1.a8fae685fa4fb6e2aed3.png",
+    "static/media/proyek5.png": "/static/media/proyek5.fe516e27748c3e9984db.png",
+    "static/media/latar.jpg": "/static/media/latar.54724d703024833ef9c6.jpg",
+    "static/media/proyek3.png": "/static/media/proyek3.f845a8d0ce79a77dd03f.png",
+    "static/media/proyek6.png": "/static/media/proyek6.68f8c0479e0a6d5f5484.png",
+    "static/media/kuliah.png": "/static/media/kuliah.06bef95e9a0c3145fdbd.png",
+    "static/media/proyek2.png": "/static/media/proyek2.1084a310a8d8725d0bc3.png",
+    "static/media/react.png": "/static/media/react.becbab0ab5d2271d2831.png",
+    "static/media/sass.png": "/static/media/sass.b3f3191d802e1c460538.png",
+    "static/media/Gambar2.png": "/static/media/Gambar2.839928a2c249e6a083a5.png",
+    "static/media/sd.png": "/static/media/sd.d538e3b16410714045fa.png",
+    "static/media/dokumen.png": "/static/media/dokumen.a68412fcc66deb7a17d7.png",
+    "static/media/nodejs.png": "/static/media/nodejs.290f630040630c5948b6.png",
+    "static/media/tailwindcss.png": "/static/media/tailwindcss.3549d9e451d7abb96934.png",
+    "static/media/figma.png": "/static/media/figma.de9ddc6c2c43c542a17e.png",
+    "static/media/fiver.png": "/static/media/fiver.7372304809ba5827d890.png",
+    "static/media/1.png": "/static/media/1.b7a44082ae830b318088.png",
+    "static/media/Gambar3.png": "/static/media/Gambar3.1b28489f4f10d934287c.png",
+    "static/media/Partikel.png": "/static/media/Partikel.d5a95e8987d550ae6fdf.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/nextjs.png": "/static/media/nextjs.ab8293c95faf26dc5e3e.png",
+    "static/media/smp.png": "/static/media/smp.9f6e4f33a9ce5fe5001a.png",
+    "static/media/1.jpg": "/static/media/1.66c2575d3f75c8f8bfee.jpg",
+    "static/media/Logo.png": "/static/media/Logo.e1741b6e092c6d3a324a.png",
+    "static/media/git.png": "/static/media/git.dfdd0989ffe0184bdd68.png",
+    "static/media/javascript.png": "/static/media/javascript.3cacb63905f322fb3541.png",
+    "static/media/css.png": "/static/media/css.c5583d093ec16d030195.png",
+    "static/media/typescript.png": "/static/media/typescript.bb13ebd9561a6ee645c2.png",
+    "static/media/html.png": "/static/media/html.918d2bd3a1053b101768.png",
+    "index.html": "/index.html",
+    "main.dde4d57c.css.map": "/static/css/main.dde4d57c.css.map",
+    "main.5930a746.js.map": "/static/js/main.5930a746.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dde4d57c.css",
+    "static/js/main.5930a746.js"
+  ]
+}
