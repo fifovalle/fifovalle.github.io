@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dde4d57c.css",
-    "main.js": "/static/js/main.a1294f20.js",
+    "main.js": "/static/js/main.2bb60e80.js",
     "static/media/proyek4.png": "/static/media/proyek4.3883ed03971efbe0735c.png",
     "static/media/proyek1.png": "/static/media/proyek1.a8fae685fa4fb6e2aed3.png",
     "static/media/proyek5.png": "/static/media/proyek5.fe516e27748c3e9984db.png",
@@ -19,6 +19,7 @@
     "static/media/figma.png": "/static/media/figma.de9ddc6c2c43c542a17e.png",
     "static/media/fiver.png": "/static/media/fiver.7372304809ba5827d890.png",
     "static/media/profil.png": "/static/media/profil.1f57c7aa46aec3556914.png",
+    "static/media/java.png": "/static/media/java.4e332879122f609caa57.png",
     "static/media/profil2.png": "/static/media/profil2.209e4b431d8f4df1f661.png",
     "static/media/Partikel.png": "/static/media/Partikel.d5a95e8987d550ae6fdf.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.cb0fcc269e8250f3551b.png",
@@ -33,10 +34,10 @@
     "static/media/html.png": "/static/media/html.918d2bd3a1053b101768.png",
     "index.html": "/index.html",
     "main.dde4d57c.css.map": "/static/css/main.dde4d57c.css.map",
-    "main.a1294f20.js.map": "/static/js/main.a1294f20.js.map"
+    "main.2bb60e80.js.map": "/static/js/main.2bb60e80.js.map"
   },
   "entrypoints": [
     "static/css/main.dde4d57c.css",
-    "static/js/main.a1294f20.js"
+    "static/js/main.2bb60e80.js"
   ]
 }
