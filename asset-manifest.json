@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.555544b1.css",
-    "main.js": "/static/js/main.f29cd51d.js",
+    "main.js": "/static/js/main.83ed22ab.js",
     "static/media/proyek8.png": "/static/media/proyek8.98d9839e7f6bf0c3468c.png",
     "static/media/proyek4.png": "/static/media/proyek4.3883ed03971efbe0735c.png",
     "static/media/proyek5.png": "/static/media/proyek5.8c0fd480b00d3b6863a3.png",
@@ -12,16 +12,18 @@
     "static/media/proyek2.png": "/static/media/proyek2.1084a310a8d8725d0bc3.png",
     "static/media/proyek7.png": "/static/media/proyek7.c3c92aa4e1ed4ac9543e.png",
     "static/media/proyek9.png": "/static/media/proyek9.87c355ff060726517093.png",
+    "static/media/proyek14.png": "/static/media/proyek14.2e723639a40dd8c43d34.png",
+    "static/media/proyek13.png": "/static/media/proyek13.425d6d4397f4e6b693dd.png",
     "static/media/proyek12.png": "/static/media/proyek12.b135f16c88909cfdc124.png",
     "static/media/proyek11.png": "/static/media/proyek11.b5e2dd50170891a42de4.png",
     "static/media/1.jpg": "/static/media/1.66c2575d3f75c8f8bfee.jpg",
     "static/media/testimonial2.jpg": "/static/media/testimonial2.32a244f1025ed0db151c.jpg",
     "index.html": "/index.html",
     "main.555544b1.css.map": "/static/css/main.555544b1.css.map",
-    "main.f29cd51d.js.map": "/static/js/main.f29cd51d.js.map"
+    "main.83ed22ab.js.map": "/static/js/main.83ed22ab.js.map"
   },
   "entrypoints": [
     "static/css/main.555544b1.css",
-    "static/js/main.f29cd51d.js"
+    "static/js/main.83ed22ab.js"
   ]
 }
